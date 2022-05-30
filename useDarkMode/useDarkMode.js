@@ -6,7 +6,7 @@ function App() {
       <div className="navbar">
         <Toggle darkMode={darkMode} setDarkMode={setDarkMode} />
       </div>
-      // Content..
+      {/* Content.. */}
     </div>
   );
 }
